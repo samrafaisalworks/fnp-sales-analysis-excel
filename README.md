@@ -203,7 +203,9 @@ Business Intelligence
 Sales Trend Analysis
 Customer Behavior Analysis
 
- Dashboard 
-[FNP Sales Dashboard](dashboard.png)
+ Dashboard
+ ## Dashboard Preview
+
+![FNP Sales Dashboard](dashboard%20fnp.png)
 
 (Repository mein screenshot ka naam dashboard.
