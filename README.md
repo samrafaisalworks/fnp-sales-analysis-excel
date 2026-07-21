@@ -55,7 +55,7 @@ Average Customer Spend	Rs. 3,520.98
 
 These KPIs provide a quick overview of the company's overall sales performance and operational efficiency.
 
-📌 Dashboard Features
+ Dashboard Features
 
 The dashboard includes interactive slicers that allow users to filter data by:
 
@@ -208,4 +208,4 @@ Customer Behavior Analysis
 
 ![FNP Sales Dashboard](dashboard%20fnp.png)
 
-(Repository mein screenshot ka naam dashboard.
+
