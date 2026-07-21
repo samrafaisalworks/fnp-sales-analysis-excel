@@ -204,9 +204,6 @@ Sales Trend Analysis
 Customer Behavior Analysis
 
  Dashboard 
-
-
-
-![FNP Sales Dashboard](dashboard.png)
+[FNP Sales Dashboard](dashboard.png)
 
 (Repository mein screenshot ka naam dashboard.
